@@ -865,12 +865,12 @@ export const englishUi = {
       faqTitle: "FAQ prompts",
     },
     vehicleTemplate: {
-      eyebrow: "15",
+      eyebrow: "16",
       title: "Ideal Vehicle Page Template",
       lead: "A premium vehicle template should combine merchandising, source clarity, trust evidence, commercial terms, and direct advisor contact.",
     },
     actionPlan: {
-      eyebrow: "16",
+      eyebrow: "17",
       title: "Prioritized Action Plan",
       lead: "The first workstream should make the buying model, trust system, and indexed templates commercially coherent.",
       tableHeaders: [
