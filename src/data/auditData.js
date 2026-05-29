@@ -695,6 +695,7 @@ export const englishUi = {
     whyItMatters: "Why it matters",
     notVerified: "Not verified in the current audit.",
     jumpTo: "Jump to",
+    navigationLabel: "Audit chapter navigation",
   },
   chapterBands: [
     {

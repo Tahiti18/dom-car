@@ -43,7 +43,7 @@ export function Sidebar() {
           {ui.language.russian}
         </button>
       </div>
-      <nav aria-label="Audit chapter navigation">
+      <nav aria-label={ui.common.navigationLabel}>
         {navGroups.map((group, groupIndex) => (
           <div className="nav-group" key={group.title}>
             <button
